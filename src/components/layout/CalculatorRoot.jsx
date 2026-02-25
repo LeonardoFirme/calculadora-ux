@@ -3,7 +3,7 @@
  * @file CalculatorRoot.jsx
  * @description Wrapper estrutural com borda 3D reforçada e profundidade de hardware.
  * @author Leonardo Firme
- * @version 1.2.0
+ * @version 1.0.0
  */
 
 import React from 'react';

@@ -3,7 +3,7 @@
  * @file Board.jsx
  * @description Grid operacional moderno com divisórias minimalistas e ergonomia otimizada.
  * @author Leonardo Firme
- * @version 1.1.4
+ * @version 1.0.0
  */
 import Key from './Key';
 

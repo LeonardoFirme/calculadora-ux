@@ -3,7 +3,7 @@
  * @file useCalculator.js
  * @description Hook de gerenciamento com persistência de histórico no resultado.
  * @author Leonardo Firme
- * @version 1.1.5
+ * @version 1.0.0
  */
 import { useState, useTransition } from 'react';
 import { evaluateExpression } from '../utils/engine';

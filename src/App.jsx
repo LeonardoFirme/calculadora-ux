@@ -3,7 +3,7 @@
  * @file App.jsx
  * @description Orquestrador principal com layout moderno e minimalista.
  * @author Leonardo Firme
- * @version 1.1.4
+ * @version 1.0.0
  */
 import React from 'react';
 import { useCalculator } from './hooks/useCalculator';

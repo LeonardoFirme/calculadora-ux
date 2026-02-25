@@ -3,7 +3,7 @@
  * @file Key.jsx
  * @description Componente atômico de interação da calculadora.
  * @author Leonardo Firme
- * @version 1.1.0
+ * @version 1.0.0
  */
 
 import React from 'react';

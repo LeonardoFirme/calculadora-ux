@@ -3,7 +3,7 @@
  * @file Screen.jsx
  * @description Visor de alta precisão com suporte a histórico persistente.
  * @author Leonardo Firme
- * @version 1.1.5
+ * @version 1.0.0
  */
 
 import React from 'react';

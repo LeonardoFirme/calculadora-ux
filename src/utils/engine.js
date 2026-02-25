@@ -3,7 +3,7 @@
  * @file engine.js
  * @description Core de processamento aritmético de alta precisão.
  * @author Leonardo Firme
- * @version 1.1.0
+ * @version 1.0.0
  */
 
 /**
