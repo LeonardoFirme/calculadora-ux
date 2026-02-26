@@ -5,6 +5,8 @@
 ![Tailwind CSS](https://img.shields.io/npm/v/tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4&label=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 
+![Demonstração do Template](./template.png)
+
 Uma interface de alta precisão desenvolvida com **React 19** e **Tailwind CSS v4 (@latest)**, focada em entregar uma experiência de usuário (UX) tátil através de design neumórfico 3D e profundidade de hardware.
 
 ## 🚀 Diferenciais Técnicos
